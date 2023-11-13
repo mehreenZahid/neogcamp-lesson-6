@@ -5,4 +5,28 @@
     display: flex;
     flex-direction: column;
     width: 50%;
+    background-color: rgb(65, 154, 125);
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    font-size: 17px;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+input{
+    padding: 7px;
+    margin: 3px;
+}
+
+button{
+    padding: 8px;
+    margin: 10px 2px;
+    margin-top: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: rgb(4, 34, 24);
+    color: white;
 }
